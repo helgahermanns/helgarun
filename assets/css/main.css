@@ -2811,6 +2811,15 @@ input, select, textarea {
 				ul.actions li:first-child {
 					margin-top: 0;
 				}
+            ul.actions.special {
+                -moz-justify-content: center;
+                -webkit-justify-content: center;
+                -ms-justify-content: center;
+                justify-content: center;
+                width: 100%;
+                margin-left: 0;
+            }
+            
 
 		/* Menu */
 
