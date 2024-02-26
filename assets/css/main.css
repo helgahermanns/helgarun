@@ -82,7 +82,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
+body {
 		background: #f0f4f4;
 		color: #5b5b5b;
 		font-size: 15pt;
@@ -90,6 +90,7 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 	}
+
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
