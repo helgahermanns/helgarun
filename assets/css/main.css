@@ -109,10 +109,14 @@ body {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 	}
-
-	h1, h2, h3, h4, h5, h6 {
+    h2 {
 		font-weight: 400;
-		color: #FFB3E2;
+		color: #FDDADC;
+		line-height: 1.25em;
+	}
+	h1, h3, h4, h5, h6 {
+		font-weight: 400;
+		color: #5b5b5b;
 		line-height: 1.25em;
 	}
 
@@ -141,7 +145,7 @@ body {
 
 	strong, b {
 		font-weight: 400;
-		color: #FFB3E2;
+		color: #FDDADC;
 	}
 
 	em, i {
@@ -2052,7 +2056,7 @@ body {
 			}
 
 				ul.icons li a:hover {
-					color: #FFB3E2;
+					color: #FDDADC;
 				}
 
 /* Form */
@@ -2060,7 +2064,7 @@ body {
 	form label {
 		display: block;
 		font-weight: 400;
-		color: #FFB3E2;
+		color: #FDDADC;
 		margin: 0 0 1em 0;
 	}
 
@@ -2172,8 +2176,8 @@ body {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #FFB3E2;
-		color: #fff;
+		background: #FDDADC;
+		color: #545454;
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
